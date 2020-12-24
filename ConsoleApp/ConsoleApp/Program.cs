@@ -13,6 +13,9 @@ namespace ConsoleApp
             Console.WriteLine("hello tiny wrold");
             Console.WriteLine("commit 3");
             Console.WriteLine("commit 4");
+            Console.WriteLine("commit 4");
+            Console.WriteLine("commit 4");
+            Console.WriteLine("commit 4");
         }
     }
 }
