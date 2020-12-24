@@ -10,5 +10,6 @@ namespace ConsoleApp
     {
         public int MyProperty { get; set; }
         public int MyProperty1 { get; set; }
+        public int Alan{ get; set; }
     }
 }
