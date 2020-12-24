@@ -73,3 +73,7 @@ _[Ss]cripts
 *.nupkg
 *.ncrunchsolution
 *.dot[Cc]over
+ConsoleApp/.vs/ConsoleApp/v16/Server/sqlite3/db.lock
+ConsoleApp/.vs/ConsoleApp/v16/Server/sqlite3/storage.ide
+ConsoleApp/.vs/ConsoleApp/v16/Server/sqlite3/storage.ide-shm
+ConsoleApp/.vs/ConsoleApp/v16/Server/sqlite3/storage.ide-wal
